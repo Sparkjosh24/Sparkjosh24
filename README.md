@@ -15,9 +15,6 @@
   <a href="https://github.com/Sparkjosh24">
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a>
 </p>
 
 <p align="center">
@@ -143,9 +140,6 @@
 <p align="center">
   <a href="https://github.com/Sparkjosh24">
     <img src="https://img.shields.io/badge/GitHub-Sparkjosh24-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
 </p>
 
