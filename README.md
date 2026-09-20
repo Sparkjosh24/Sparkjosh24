@@ -30,6 +30,8 @@ I enjoy turning ideas into practical software and AI projects with <b>Python, ma
 
 ---
 
+<p align="center"><img src="./assets/what-i-build.svg" width="100%" alt="Animated What I Build" /></p>
+
 ## ⚡ What I Build
 
 <table width="100%"><tr><td width="50%" valign="top">
@@ -57,6 +59,8 @@ Data handling, API-driven datasets and SQL fundamentals.
 </td></tr></table>
 
 ---
+
+<p align="center"><img src="./assets/featured-work.svg" width="100%" alt="Animated Featured Work" /></p>
 
 ## 🚀 Featured Work
 
@@ -118,6 +122,8 @@ Retrieves and processes vulnerability information using the NVD CVE API.
 
 ---
 
+<p align="center"><img src="./assets/tech-stack.svg" width="100%" alt="Animated Tech Stack" /></p>
+
 ## 🧰 Tech Stack
 
 <p align="center"><img src="https://skillicons.dev/icons?i=python,java,c,flask,opencv,git,github,linux,vscode&perline=9&theme=dark" alt="Python Java C Flask OpenCV Git GitHub Linux VS Code" /></p>
@@ -131,6 +137,8 @@ Retrieves and processes vulnerability information using the NVD CVE API.
 </p>
 
 ---
+
+<p align="center"><img src="./assets/github-analytics.svg" width="100%" alt="Animated GitHub Analytics" /></p>
 
 ## 📊 GitHub Analytics
 
@@ -162,4 +170,4 @@ Retrieves and processes vulnerability information using the NVD CVE API.
 
 <p align="center"><i>Open to learning, building and collaborating on meaningful AI & software projects.</i></p>
 
-<p align="center"><img src="./assets/footer.svg" width="100%" alt="Animated profile footer" /></p>
+<p align="center"><img src="./assets/thanks.svg" width="100%" alt="Animated thanks for visiting my profile" /></p>
