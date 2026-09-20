@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="2050" viewBox="0 0 1200 2050">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020407"/><stop offset=".5" stop-color="#070b12"/><stop offset="1" stop-color="#10091b"/></linearGradient>
+ <linearGradient id="cyanPurple"><stop stop-color="#67e8f9"/><stop offset=".5" stop-color="#ffffff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+ <linearGradient id="card"><stop stop-color="#0b1119"/><stop offset="1" stop-color="#090d14"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+ <filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
+ <pattern id="grid" width="70" height="70" patternUnits="userSpaceOnUse"><path d="M70 0H0V70" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+</defs>
+
+<rect width="1200" height="2050" fill="url(#bg)"/>
+<rect width="1200" height="2050" fill="url(#grid)"/>
+
+<!-- ambient lights -->
+<circle cx="1020" cy="120" r="240" fill="#7c3aed" opacity=".10" filter="url(#glow)"><animate attributeName="r" values="190;260;190" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="130" cy="740" r="180" fill="#06b6d4" opacity=".07" filter="url(#glow)"><animate attributeName="cx" values="100;180;100" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="1080" cy="1450" r="220" fill="#8b5cf6" opacity=".07" filter="url(#glow)"><animate attributeName="r" values="170;240;170" dur="8s" repeatCount="indefinite"/></circle>
+
+<!-- HERO -->
+<rect x="18" y="18" width="1164" height="360" rx="30" fill="#05070b" stroke="#293241"/>
+<rect x="42" y="43" width="310" height="235" rx="18" fill="#060a10" stroke="#334155"/>
+<circle cx="64" cy="66" r="6" fill="#67e8f9"/><circle cx="85" cy="66" r="6" fill="#fff"/><circle cx="106" cy="66" r="6" fill="#a78bfa"/>
+<text x="62" y="103" fill="#cbd5e1" font-family="monospace" font-size="17">Sparkjosh24@github:~$</text>
+<text x="62" y="136" fill="#67e8f9" font-family="monospace" font-size="15">&gt; AI &amp; Data Science</text>
+<text x="62" y="164" fill="#cbd5e1" font-family="monospace" font-size="15">&gt; Machine Learning</text>
+<text x="62" y="192" fill="#cbd5e1" font-family="monospace" font-size="15">&gt; Deep Learning</text>
+<text x="62" y="220" fill="#cbd5e1" font-family="monospace" font-size="15">&gt; Computer Vision</text>
+<text x="62" y="248" fill="#a78bfa" font-family="monospace" font-size="15">&gt; Building practical AI</text>
+<rect x="370" y="62" width="760" height="250" rx="22" fill="#05070b" opacity=".45"/>
+<text x="395" y="105" fill="#f8fafc" font-family="Arial" font-size="32">Hi, I’m</text>
+<text x="395" y="157" fill="url(#cyanPurple)" font-family="Arial" font-size="49" font-weight="700">A.R. JOSHUA JEBERSON</text>
+<text x="395" y="196" fill="#e2e8f0" font-family="Arial" font-size="23">AI &amp; Data Science • Python • ML • Deep Learning</text>
+<text x="395" y="240" fill="#94a3b8" font-family="Arial" font-size="18">Turning ideas into practical software and intelligent systems.</text>
+<text x="395" y="286" fill="#67e8f9" font-family="monospace" font-size="18">BUILD • LEARN • EXPERIMENT • IMPROVE</text>
+<rect x="395" y="300" width="430" height="3" fill="url(#cyanPurple)"><animate attributeName="width" values="80;430;180;430" dur="5s" repeatCount="indefinite"/></rect>
+
+<!-- ABOUT -->
+<rect x="18" y="400" width="1164" height="265" rx="28" fill="url(#card)" stroke="#293241"/>
+<circle cx="92" cy="468" r="30" fill="#67e8f9" opacity=".12" stroke="#67e8f9"/>
+<text x="82" y="479" fill="#67e8f9" font-family="Arial" font-size="25">i</text>
+<text x="145" y="470" fill="#fff" font-family="Arial" font-size="32" font-weight="700">About Me</text>
+<text x="70" y="520" fill="#e2e8f0" font-family="Arial" font-size="18">I learn by building — creating practical AI and Python projects</text>
+<text x="70" y="548" fill="#e2e8f0" font-family="Arial" font-size="18">across machine learning, deep learning, computer vision and speech AI.</text>
+<text x="70" y="590" fill="#67e8f9" font-family="Arial" font-size="15">B.Tech • Artificial Intelligence &amp; Data Science</text>
+<text x="70" y="618" fill="#94a3b8" font-family="Arial" font-size="15">Tamil Nadu, India • Focused on AI, ML, Python &amp; software development</text>
+<rect x="825" y="445" width="290" height="165" rx="22" fill="#090d15" stroke="#334155"/>
+<circle cx="970" cy="525" r="48" fill="#67e8f9" opacity=".06"><animate attributeName="r" values="35;58;35" dur="4s" repeatCount="indefinite"/></circle>
+<text x="970" y="515" text-anchor="middle" fill="#fff" font-family="Arial" font-size="20" font-weight="700">SMALL STEPS</text>
+<text x="970" y="545" text-anchor="middle" fill="#a78bfa" font-family="Arial" font-size="20" font-weight="700">BIG PROGRESS</text>
+
+<!-- WHAT I BUILD -->
+<text x="55" y="725" fill="#fff" font-family="Arial" font-size="32" font-weight="700">What I Build</text>
+<text x="55" y="753" fill="#67e8f9" font-family="Arial" font-size="16">Ideas → Code → Experiments → Working Systems</text>
+<g font-family="Arial" text-anchor="middle">
+ <g><rect x="45" y="785" width="255" height="145" rx="20" fill="url(#card)" stroke="#155e75"/><text x="172" y="835" fill="#67e8f9" font-size="22" font-weight="700">AI / ML</text><text x="172" y="870" fill="#cbd5e1" font-size="14">Machine learning</text><text x="172" y="893" fill="#94a3b8" font-size="13">Deep learning systems</text><circle cx="172" cy="810" r="5" fill="#67e8f9"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle></g>
+ <g><rect x="315" y="785" width="255" height="145" rx="20" fill="url(#card)" stroke="#334155"/><text x="442" y="835" fill="#fff" font-size="22" font-weight="700">Computer Vision</text><text x="442" y="870" fill="#cbd5e1" font-size="14">OpenCV</text><text x="442" y="893" fill="#94a3b8" font-size="13">Visual AI experiments</text><circle cx="442" cy="810" r="5" fill="#fff"><animate attributeName="opacity" values="1;.2;1" dur="2.7s" repeatCount="indefinite"/></circle></g>
+ <g><rect x="585" y="785" width="255" height="145" rx="20" fill="url(#card)" stroke="#334155"/><text x="712" y="835" fill="#67e8f9" font-size="22" font-weight="700">Speech AI</text><text x="712" y="870" fill="#cbd5e1" font-size="14">MFCC • LSTM • DNN</text><text x="712" y="893" fill="#94a3b8" font-size="13">Audio intelligence</text><circle cx="712" cy="810" r="5" fill="#67e8f9"><animate attributeName="r" values="3;8;3" dur="2s" repeatCount="indefinite"/></circle></g>
+ <g><rect x="855" y="785" width="300" height="145" rx="20" fill="url(#card)" stroke="#4c1d95"/><text x="1005" y="835" fill="#a78bfa" font-size="22" font-weight="700">Python Engineering</text><text x="1005" y="870" fill="#cbd5e1" font-size="14">Flask • APIs • automation</text><text x="1005" y="893" fill="#94a3b8" font-size="13">Backend applications</text><circle cx="1005" cy="810" r="5" fill="#a78bfa"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle></g>
+</g>
+<rect x="55" y="945" width="180" height="3" fill="url(#cyanPurple)"><animate attributeName="x" values="55;900;55" dur="7s" repeatCount="indefinite"/></rect>
+
+<!-- FEATURED -->
+<text x="55" y="1020" fill="#fff" font-family="Arial" font-size="32" font-weight="700">Featured Work</text>
+<text x="55" y="1048" fill="#94a3b8" font-family="Arial" font-size="16">Selected projects from my AI &amp; Python journey</text>
+<g font-family="Arial">
+ <g><rect x="45" y="1080" width="260" height="150" rx="20" fill="url(#card)" stroke="#155e75"/><text x="68" y="1120" fill="#67e8f9" font-size="20" font-weight="700">DEEPSHIELD</text><text x="68" y="1150" fill="#e5e7eb" font-size="15">Deepfake Detection</text><text x="68" y="1180" fill="#94a3b8" font-size="12">AI • Deep Learning • Vision</text><circle cx="272" cy="1105" r="8" fill="#67e8f9"><animate attributeName="opacity" values=".25;1;.25" dur="1.8s" repeatCount="indefinite"/></circle></g>
+ <g><rect x="325" y="1080" width="260" height="150" rx="20" fill="url(#card)" stroke="#334155"/><text x="348" y="1120" fill="#fff" font-size="20" font-weight="700">Speech Emotion</text><text x="348" y="1150" fill="#e5e7eb" font-size="15">Real-time Speech AI</text><text x="348" y="1180" fill="#94a3b8" font-size="12">MFCC • LSTM • RAVDESS • TESS</text><circle cx="552" cy="1105" r="8" fill="#fff"><animate attributeName="opacity" values="1;.2;1" dur="2.4s" repeatCount="indefinite"/></circle></g>
+ <g><rect x="605" y="1080" width="260" height="150" rx="20" fill="url(#card)" stroke="#4c1d95"/><text x="628" y="1120" fill="#a78bfa" font-size="20" font-weight="700">Question Paper</text><text x="628" y="1150" fill="#e5e7eb" font-size="15">Flask Generator</text><text x="628" y="1180" fill="#94a3b8" font-size="12">Python • Flask • structured output</text><circle cx="832" cy="1105" r="8" fill="#a78bfa"><animate attributeName="r" values="5;10;5" dur="2s" repeatCount="indefinite"/></circle></g>
+ <g><rect x="885" y="1080" width="270" height="150" rx="20" fill="url(#card)" stroke="#334155"/><text x="908" y="1120" fill="#67e8f9" font-size="20" font-weight="700">NVD CVE</text><text x="908" y="1150" fill="#e5e7eb" font-size="15">Vulnerability Data</text><text x="908" y="1180" fill="#94a3b8" font-size="12">Python • API • Security</text><circle cx="1122" cy="1105" r="8" fill="#67e8f9"><animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/></circle></g>
+</g>
+
+<!-- TECH -->
+<text x="55" y="1320" fill="#fff" font-family="Arial" font-size="32" font-weight="700">Tech Stack</text>
+<text x="55" y="1348" fill="#67e8f9" font-family="Arial" font-size="16">Technologies I use to build, test and ship</text>
+<g font-family="Arial" text-anchor="middle">
+ <g><rect x="45" y="1380" width="125" height="82" rx="18" fill="#0b1118" stroke="#334155"/><text x="107" y="1417" fill="#67e8f9" font-size="17" font-weight="700">Python</text><text x="107" y="1440" fill="#64748b" font-size="11">CORE</text></g>
+ <g><rect x="185" y="1380" width="125" height="82" rx="18" fill="#0b1118" stroke="#334155"/><text x="247" y="1417" fill="#fff" font-size="17" font-weight="700">Java</text><text x="247" y="1440" fill="#64748b" font-size="11">LANGUAGE</text></g>
+ <g><rect x="325" y="1380" width="125" height="82" rx="18" fill="#0b1118" stroke="#334155"/><text x="387" y="1417" fill="#a78bfa" font-size="17" font-weight="700">Flask</text><text x="387" y="1440" fill="#64748b" font-size="11">BACKEND</text></g>
+ <g><rect x="465" y="1380" width="125" height="82" rx="18" fill="#0b1118" stroke="#334155"/><text x="527" y="1417" fill="#67e8f9" font-size="17" font-weight="700">OpenCV</text><text x="527" y="1440" fill="#64748b" font-size="11">VISION</text></g>
+ <g><rect x="605" y="1380" width="125" height="82" rx="18" fill="#0b1118" stroke="#334155"/><text x="667" y="1417" fill="#fff" font-size="17" font-weight="700">NumPy</text><text x="667" y="1440" fill="#64748b" font-size="11">DATA</text></g>
+ <g><rect x="745" y="1380" width="125" height="82" rx="18" fill="#0b1118" stroke="#334155"/><text x="807" y="1417" fill="#a78bfa" font-size="17" font-weight="700">SQL</text><text x="807" y="1440" fill="#64748b" font-size="11">DATABASE</text></g>
+ <g><rect x="885" y="1380" width="125" height="82" rx="18" fill="#0b1118" stroke="#334155"/><text x="947" y="1417" fill="#67e8f9" font-size="17" font-weight="700">Git</text><text x="947" y="1440" fill="#64748b" font-size="11">VERSIONING</text></g>
+ <g><rect x="1025" y="1380" width="130" height="82" rx="18" fill="#0b1118" stroke="#334155"/><text x="1090" y="1417" fill="#fff" font-size="17" font-weight="700">Linux</text><text x="1090" y="1440" fill="#64748b" font-size="11">ENVIRONMENT</text></g>
+</g>
+<rect x="45" y="1482" width="170" height="3" fill="url(#cyanPurple)"><animate attributeName="width" values="60;850;170" dur="7s" repeatCount="indefinite"/></rect>
+
+<!-- ANALYTICS -->
+<text x="55" y="1550" fill="#fff" font-family="Arial" font-size="32" font-weight="700">GitHub Analytics</text>
+<text x="55" y="1578" fill="#94a3b8" font-family="Arial" font-size="16">Activity, languages and contribution journey</text>
+<g font-family="Arial" text-anchor="middle">
+ <g><rect x="45" y="1610" width="255" height="90" rx="18" fill="#0b1118" stroke="#155e75"/><text x="172" y="1642" fill="#67e8f9" font-size="15" font-weight="700">PROFILE</text><text x="172" y="1668" fill="#e5e7eb" font-size="14">Sparkjosh24</text><circle cx="270" cy="1630" r="6" fill="#67e8f9"><animate attributeName="r" values="4;9;4" dur="2s" repeatCount="indefinite"/></circle></g>
+ <g><rect x="315" y="1610" width="255" height="90" rx="18" fill="#0b1118" stroke="#334155"/><text x="442" y="1642" fill="#fff" font-size="15" font-weight="700">LANGUAGES</text><text x="442" y="1668" fill="#e5e7eb" font-size="14">Live card below</text><rect x="350" y="1682" width="185" height="3" rx="2" fill="#334155"><rect x="350" y="1682" width="90" height="3" fill="#67e8f9"><animate attributeName="width" values="45;185;90" dur="3s" repeatCount="indefinite"/></rect></rect></g>
+ <g><rect x="585" y="1610" width="255" height="90" rx="18" fill="#0b1118" stroke="#4c1d95"/><text x="712" y="1642" fill="#a78bfa" font-size="15" font-weight="700">STREAK</text><text x="712" y="1668" fill="#e5e7eb" font-size="14">Updated by activity</text><circle cx="712" cy="1683" r="4" fill="#a78bfa"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle></g>
+ <g><rect x="855" y="1610" width="300" height="90" rx="18" fill="#0b1118" stroke="#334155"/><text x="1005" y="1642" fill="#67e8f9" font-size="15" font-weight="700">CONTRIBUTIONS</text><text x="1005" y="1668" fill="#e5e7eb" font-size="14">Contribution snake below</text><rect x="925" y="1682" width="160" height="3" rx="2" fill="url(#cyanPurple)"><animate attributeName="x" values="900;1000;900" dur="4s" repeatCount="indefinite"/></rect></g>
+</g>
+
+<!-- THANK YOU -->
+<rect x="18" y="1745" width="1164" height="270" rx="30" fill="#05070b" stroke="#293241"/>
+<circle cx="145" cy="1880" r="90" fill="#67e8f9" opacity=".06" filter="url(#glow)"><animate attributeName="r" values="65;105;65" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="1055" cy="1880" r="90" fill="#a78bfa" opacity=".06" filter="url(#glow)"><animate attributeName="r" values="65;105;65" dur="6s" repeatCount="indefinite"/></circle>
+<text x="600" y="1840" text-anchor="middle" fill="#fff" font-family="Arial" font-size="38" font-weight="700">Thanks for visiting my profile ✦</text>
+<text x="600" y="1880" text-anchor="middle" fill="#94a3b8" font-family="Arial" font-size="17">Keep learning • Keep building • Keep creating</text>
+<path d="M350 1930H850" stroke="url(#cyanPurple)" stroke-width="2"><animate attributeName="d" values="M350 1930H850;M480 1930H720;M350 1930H850" dur="5s" repeatCount="indefinite"/></path>
+<circle cx="600" cy="1930" r="5" fill="#fff"><animate attributeName="r" values="3;9;3" dur="2s" repeatCount="indefinite"/></circle>
+<text x="600" y="1975" text-anchor="middle" fill="#67e8f9" font-family="monospace" font-size="14">AI • CODE • CREATE</text>
+</svg>
