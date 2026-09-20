@@ -1,173 +1,146 @@
-<!-- Header -->
+<!-- ===================================================== -->
+<!-- A.R. JOSHUA JEBERSON — GitHub Profile README -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="A.R. Joshua Jeberson" />
+</p>
+
+<h1 align="center">A.R. Joshua Jeberson</h1>
+
+<p align="center">
+  <strong>Artificial Intelligence & Data Science | Python Developer | ML & Deep Learning</strong>
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/joshua-jeberson-a-r-ab8513366/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Sparkjosh24">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Sparkjosh24-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/spark_josh_/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-spark__josh__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://wa.me/917418845328">
-    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-Connect-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://drive.google.com/file/d/1cg2SqDapgJVUVaKol1-evIb0wdGkS_pd/view?usp=drivesdk">
-    <img src="https://img.shields.io/badge/Resume-View-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-View-DC2626?style=flat-square&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
   <a href="mailto:joshuajebersonar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=EF4444&labelColor=0a0a0a" alt="Email" />
-  </a>
-</p>
-
-<!-- Typing introduction -->
-<p align="center">
-  <a href="https://github.com/Sparkjosh24">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=720&height=42&lines=Hi+there!+I'm+A.R.+Joshua+Jeberson+%F0%9F%91%8B;AI+%26+Data+Science+Engineer+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Machine+Learning+%26+Deep+Learning+Enthusiast+%F0%9F%A7%A0;Building+practical+AI+solutions+%E2%9A%A1" alt="Typing introduction" />
-  </a>
-</p>
-
-<!-- GitHub -->
-<p align="center">
-  <a href="https://github.com/Sparkjosh24">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
-  </a>
-  <a href="mailto:joshuajebersonar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=EF4444&labelColor=0a0a0a" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-444444?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sparkjosh24&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sparkjosh24&label=PROFILE%20VIEWS&color=DC2626&style=flat-square" alt="Profile views" />
 </p>
 
-## 👨‍💻 About Me
+---
+
+## 👋 About
+
+I'm an **Artificial Intelligence and Data Science** student focused on building practical software and AI systems with Python.
+
+My interests sit at the intersection of **machine learning, deep learning, computer vision, speech processing, APIs and backend development**. I prefer learning by building — taking an idea from a concept into a working application.
+
+**Currently focused on:** AI/ML projects • Python development • Computer Vision • Data Science • Backend APIs
+
+---
+
+## 🧠 What I Build
+
+| Area | What I work with |
+| --- | --- |
+| 🤖 **Artificial Intelligence** | Machine Learning, Deep Learning, model-based applications |
+| 👁️ **Computer Vision** | OpenCV, image/video processing, visual AI |
+| 🎙️ **Speech & Audio AI** | MFCC, LSTM/DNN, speech emotion recognition |
+| 🐍 **Python Development** | Flask, REST APIs, automation and application development |
+| 🛡️ **Security & Data** | NVD CVE API, vulnerability-data ingestion |
+| 🗄️ **Data & SQL** | Data handling, SQL fundamentals and API-driven datasets |
+
+---
+
+## 🚀 Selected Projects
+
+### 🛡️ DEEPSHIELD — Deepfake Detection System
+An AI-focused project exploring **deepfake detection and media authenticity** using machine-learning/deep-learning concepts.
+
+### 🎙️ Real-Time Speech Emotion Recognition
+A speech AI system using **MFCC features, LSTM/DNN models, RAVDESS and TESS datasets**, designed for real-time emotion recognition.
+
+### 📄 Question Paper Generator
+A **Flask-based application** for generating question papers, combining Python backend development with structured question generation.
+
+### 🔐 NVD CVE Data Project
+A project built around the **National Vulnerability Database CVE API** for retrieving and working with vulnerability information.
+
+<details>
+<summary><b>More projects</b></summary>
+
+- **MCQ Generator** — automated multiple-choice question generation
+- **Voice Short Answer App** — voice-based short-answer interaction
+- **Meesho Clone** — e-commerce web development project
+- **Snake Game** — Python game development project
+
+</details>
+
+---
+
+## 🧰 Technical Stack
 
 <p align="center">
-  I am a <b>B.Tech Artificial Intelligence and Data Science</b> student at <b>Panimalar Engineering College</b>,
-  interested in <b>Artificial Intelligence, Data Science, Machine Learning, Deep Learning and Python development</b>.
-  I enjoy turning ideas into practical projects and continuously learning through hands-on development.
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" alt="Developer coding animation" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🎓_Degree-B.Tech_AI_%26_Data_Science-DC2626?style=flat-square" alt="Degree" />
-  <img src="https://img.shields.io/badge/🤖_Focus-Artificial_Intelligence-111111?style=flat-square" alt="AI focus" />
-  <img src="https://img.shields.io/badge/🐍_Core-Python-DC2626?style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/🧠_Interest-Machine_Learning-111111?style=flat-square" alt="Machine Learning" />
-</p>
-
-## 🚀 What I Work On
-
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🤖 Artificial Intelligence</h3>
-      <p>Machine learning, deep learning and practical AI applications.</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🐍 Python Development</h3>
-      <p>Python applications, Flask APIs and automation-oriented projects.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>👁️ Computer Vision</h3>
-      <p>OpenCV-based projects and image/video analysis.</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🎙️ AI & Speech</h3>
-      <p>Speech emotion recognition and intelligent voice applications.</p>
-    </td>
-  </tr>
-</table>
-
-## 🌟 Featured Project
-
-<table width="100%" border="0">
-  <tr>
-    <td align="center" style="padding: 22px;">
-      <h3>🛡️ DEEPSHIELD — Deepfake Detection System</h3>
-      <p><i>An AI-focused project exploring deepfake detection and media authenticity.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Focus-AI%20%26%20Deep%20Learning-DC2626?style=for-the-badge&labelColor=0a0a0a" alt="AI and Deep Learning" />
-        <img src="https://img.shields.io/badge/Area-Deepfake%20Detection-111111?style=for-the-badge&labelColor=0a0a0a" alt="Deepfake Detection" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-## 🎙️ Other Projects
-
-- **Speech Emotion Recognition** — Real-time speech emotion recognition using MFCC, LSTM/DNN, RAVDESS and TESS datasets.
-- **Question Paper Generator** — Flask-based application for generating question papers.
-- **MCQ Generator** — AI-based multiple-choice question generation project.
-- **Voice Short Answer App** — Voice-based short-answer application.
-- **NVD CVE Project** — Vulnerability data ingestion using the NVD CVE API.
-- **Meesho Clone** — E-commerce website project.
-- **Snake Game** — Python-based game project.
-
-## 🧰 Tech Stack & Skills
-
-<p align="center"><b>Programming Languages</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c&theme=dark" alt="Python Java C" />
-</p>
-
-<p align="center"><b>AI, Data Science & Computer Vision</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,opencv,numpy&theme=dark" alt="Python OpenCV NumPy" />
-</p>
-
-<p align="center"><b>Backend & Development</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,git,github,linux,vscode&theme=dark" alt="Flask Git GitHub Linux VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,flask,opencv,git,github,linux,vscode&perline=9" alt="Technical skills" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=EF4444" alt="SQL" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-0a0a0a?style=for-the-badge&logo=scikitlearn&logoColor=EF4444" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=EF4444" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/REST%20API-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=EF4444" alt="REST API" />
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-111111?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
-## 📊 GitHub Analytics
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sparkjosh24&show_icons=true&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width:440px;" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparkjosh24&layout=compact&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width:350px;" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sparkjosh24&theme=dark&hide_border=false&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999&border=ef4444" width="100%" style="max-width:480px;" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="./assets/quote.svg" width="100%" alt="Profile quote" />
-</p>
-
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sparkjosh24/Sparkjosh24/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
-</p>
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/Sparkjosh24">
-    <img src="https://img.shields.io/badge/GitHub-Sparkjosh24-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub" />
-  </a>
-  <a href="mailto:joshuajeberson2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-111111?style=for-the-badge&logo=gmail&logoColor=EF4444&labelColor=0a0a0a" alt="Email" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sparkjosh24&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=DC2626&text_color=444444&icon_color=DC2626&include_all_commits=true" width="48%" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparkjosh24&layout=compact&hide_border=true&bg_color=ffffff00&title_color=DC2626&text_color=444444" width="40%" alt="Top languages" />
 </p>
 
 <p align="center">
-  <i>Open to learning, building and collaborating on meaningful AI and software projects.</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sparkjosh24&theme=transparent&hide_border=true&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=444444&dates=777777" width="55%" alt="GitHub streak" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sparkjosh24/Sparkjosh24/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake" />
+</p>
+
+---
+
+## 🤝 Let's Build Something
+
+I'm interested in **AI, machine learning, Python development and practical technology projects**.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joshua-jeberson-a-r-ab8513366/"><b>LinkedIn</b></a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/Sparkjosh24"><b>GitHub</b></a>
+  &nbsp; • &nbsp;
+  <a href="https://drive.google.com/file/d/1cg2SqDapgJVUVaKol1-evIb0wdGkS_pd/view?usp=drivesdk"><b>Resume</b></a>
+  &nbsp; • &nbsp;
+  <a href="mailto:joshuajebersonar@gmail.com"><b>Email</b></a>
+</p>
+
+<p align="center">
+  <i>Build. Learn. Experiment. Improve.</i>
 </p>
 
 <p align="center">
