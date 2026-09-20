@@ -1,6 +1,20 @@
 <!-- Header -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="A.R. Joshua Jeberson header" />
+  <a href="https://github.com/Sparkjosh24">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/spark_josh_/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/917418845328">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a" alt="WhatsApp" />
+  </a>
+  <a href="https://drive.google.com/file/d/1cg2SqDapgJVUVaKol1-evIb0wdGkS_pd/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/Resume-View-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
+  </a>
+  <a href="mailto:joshuajebersonar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=EF4444&labelColor=0a0a0a" alt="Email" />
+  </a>
 </p>
 
 <!-- Typing introduction -->
