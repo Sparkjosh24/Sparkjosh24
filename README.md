@@ -6,6 +6,10 @@
   <img src="./assets/header.svg" width="100%" alt="A.R. Joshua Jeberson" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer;Python+Developer+%7C+ML+%7C+Deep+Learning;Computer+Vision+%7C+Speech+AI;Turning+Ideas+Into+Working+Projects" alt="Animated introduction" />
+</p>
+
 <h1 align="center">A.R. Joshua Jeberson</h1>
 
 <p align="center">
