@@ -1,5 +1,8 @@
 <!-- Header -->
 <p align="center">
+  <a href="https://www.linkedin.com/in/joshua-jeberson-a-r-ab8513366/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/Sparkjosh24">
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
