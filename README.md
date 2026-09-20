@@ -15,10 +15,7 @@
   <a href="https://github.com/Sparkjosh24">
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/joshua-jeberson-a-r-ab8513366/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-  </a>
-  <a href="mailto:joshuajeberson2004@gmail.com">
+  <a href="mailto:joshuajebersonar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=EF4444&labelColor=0a0a0a" alt="Email" />
   </a>
 </p>
@@ -146,9 +143,6 @@
 <p align="center">
   <a href="https://github.com/Sparkjosh24">
     <img src="https://img.shields.io/badge/GitHub-Sparkjosh24-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/joshua-jeberson-a-r-ab8513366/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   <a href="mailto:joshuajeberson2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-111111?style=for-the-badge&logo=gmail&logoColor=EF4444&labelColor=0a0a0a" alt="Email" />
