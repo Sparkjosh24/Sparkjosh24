@@ -6,6 +6,7 @@
 <a href="https://www.instagram.com/spark_josh_/"><img src="https://img.shields.io/badge/Instagram-spark__josh__-05070b?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" /></a>
 <a href="https://wa.me/917418845328"><img src="https://img.shields.io/badge/WhatsApp-Connect-05070b?style=for-the-badge&logo=whatsapp&logoColor=67e8f9" alt="WhatsApp" /></a>
 <a href="https://drive.google.com/file/d/1cg2SqDapgJVUVaKol1-evIb0wdGkS_pd/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-View-05070b?style=for-the-badge&logo=googledrive&logoColor=a78bfa" alt="Resume" /></a>
+<a href="mailto:joshuajeberson2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-05070b?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
 </p>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=820&lines=Artificial+Intelligence+%26+Data+Science;Python+Developer+%7C+Machine+Learning;Deep+Learning+%7C+Computer+Vision;Speech+AI+%7C+Backend+Development;Turning+Ideas+Into+Working+Projects" alt="Animated introduction" /></p>
