@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/cinematic-profile.svg" width="100%" alt="A.R. Joshua Jeberson cinematic animated GitHub profile" /></p>
+<p align="center"><img src="./assets/cinematic-profile.webp" width="100%" alt="A.R. Joshua Jeberson cinematic GitHub profile" /></p>
 
 <p align="center">
 <a href="https://github.com/Sparkjosh24"><img src="https://img.shields.io/badge/GitHub-Sparkjosh24-05070b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
@@ -9,6 +9,4 @@
 <a href="mailto:joshuajeberson2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-05070b?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=820&lines=Artificial+Intelligence+%26+Data+Science;Python+Developer+%7C+Machine+Learning;Deep+Learning+%7C+Computer+Vision;Speech+AI+%7C+Backend+Development;Turning+Ideas+Into+Working+Projects" alt="Animated introduction" /></p>
-
-<!-- The main cinematic SVG above contains the complete animated profile layout, including About Me, What I Build, Featured Work, Tech Stack, GitHub Analytics and the closing section. -->
+<p align="center"><b>AI Enthusiast • Problem Solver • Lifelong Learner</b></p>
